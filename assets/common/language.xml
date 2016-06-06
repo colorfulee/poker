@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+    <item id="seat">
+        <en_us><![CDATA[座位]]></en_us>
+        <th_th><![CDATA[座位]]></th_th>
+        <zh_tw><![CDATA[座位]]></zh_tw>
+    </item>
+    <item id="10001">
+        <en_us><![CDATA[此id号不存在 ]]></en_us>
+        <th_th><![CDATA[此id号不存在 ]]></th_th>
+        <zh_tw><![CDATA[此id號不存在 ]]></zh_tw>
+    </item>
+    <item id="10002">
+        <en_us><![CDATA[此id号已被使用]]></en_us>
+        <th_th><![CDATA[此id号已被使用]]></th_th>
+        <zh_tw><![CDATA[此id號已被使用]]></zh_tw>
+    </item>
+    <item id="10003">
+        <en_us><![CDATA[你已经坐下]]></en_us>
+        <th_th><![CDATA[你已经坐下]]></th_th>
+        <zh_tw><![CDATA[你已經坐下]]></zh_tw>
+    </item>
+    <item id="10004">
+        <en_us><![CDATA[此座位已经有人]]></en_us>
+        <th_th><![CDATA[此座位已经有人]]></th_th>
+        <zh_tw><![CDATA[此座位已經有人]]></zh_tw>
+    </item>
+    <item id="10005">
+        <en_us><![CDATA[你不可以进行当前的行为]]></en_us>
+        <th_th><![CDATA[คุณไม่สามารถทำเช่นนี้]]></th_th>
+        <zh_tw><![CDATA[你不可以進行當前的行為]]></zh_tw>
+    </item>
+    <item id="10006">
+        <en_us><![CDATA[ 还没有轮到你操作]]></en_us>
+        <th_th><![CDATA[ 还没有轮到你操作]]></th_th>
+        <zh_tw><![CDATA[ 還沒有輪到你操作]]></zh_tw>
+    </item>
+    <item id="10201">
+        <en_us><![CDATA[ 访问数据库出错]]></en_us>
+        <th_th><![CDATA[ 访问数据库出错]]></th_th>
+        <zh_tw><![CDATA[ 訪問數據庫出錯]]></zh_tw>
+    </item>
+    <item id="10202">
+        <en_us><![CDATA[ 没有这张桌子]]></en_us>
+        <th_th><![CDATA[ 没有这张桌子]]></th_th>
+        <zh_tw><![CDATA[ 沒有找到這張牌桌]]></zh_tw>
+    </item>
+    <item id="10203">
+        <en_us><![CDATA[ 没有登录]]></en_us>
+        <th_th><![CDATA[ 没有登录]]></th_th>
+        <zh_tw><![CDATA[ 沒有登錄]]></zh_tw>
+    </item>
+    <item id="10204">
+        <en_us><![CDATA[ 没有此座位]]></en_us>
+        <th_th><![CDATA[ 没有此座位]]></th_th>
+        <zh_tw><![CDATA[ 沒有此座位]]></zh_tw>
+    </item>
+    <item id="10205">
+        <en_us><![CDATA[ 没有钱了]]></en_us>
+        <th_th><![CDATA[ เงินไม่เพียงพอที่จะซื้อ]]></th_th>
+        <zh_tw><![CDATA[ 沒有足夠的籌碼/金幣]]></zh_tw>
+    </item>
+    <item id="10206">
+        <en_us><![CDATA[ 你还没有坐下]]></en_us>
+        <th_th><![CDATA[ ฟังก์ชั่นดังกล่าวจะสามารถใช้ได้เมื่อคุณนั่งลงแล้ว]]></th_th>
+        <zh_tw><![CDATA[ 您還沒有坐下]]></zh_tw>
+    </item>
+    <item id="10207">
+        <en_us><![CDATA[ 桌子已经坐满人了（Sit and Go，桌子已经坐满人/正在游戏中） ]]></en_us>
+        <th_th><![CDATA[ 桌子已经坐满人了（Sit and Go，桌子已经坐满人/正在游戏中） ]]></th_th>
+        <zh_tw><![CDATA[ 桌子已經坐滿人了（Sit and Go，桌子已經坐滿人/正在遊戲中） ]]></zh_tw>
+    </item>
+    <item id="10208">
+        <en_us><![CDATA[ 现在不能玩老虎机（访问slot-server异常）]]></en_us>
+        <th_th><![CDATA[ 现在不能玩老虎机（访问slot-server异常）]]></th_th>
+        <zh_tw><![CDATA[ 現在不能玩老虎機（訪問slot-server異常）]]></zh_tw>
+    </item>
+    <item id="10209">
+        <en_us><![CDATA[ 玩家没有该道具（或该道具已用完）]]></en_us>
+        <th_th><![CDATA[ ไอเทม/ของขวัญไม่เพียงพอ กรุณาไปยังร้านค้า]]></th_th>
+        <zh_tw><![CDATA[ 沒有足夠的道具]]></zh_tw>
+    </item>
+    <item id="10210">
+        <en_us><![CDATA[ Can't get the rewards now, please wait ]]></en_us>
+        <th_th><![CDATA[ ยังไม่ถึงเวลารับรางวัล กรุณารอสักครู่]]></th_th>
+        <zh_tw><![CDATA[ 請靜待領獎時間到 ]]></zh_tw>
+    </item>
+    <item id="10211">
+        <en_us><![CDATA[ 桌子不能容纳更多的旁观者了]]></en_us>
+        <th_th><![CDATA[ โต๊ะนี้ไม่สามารถรองรับผู้ชมเพิ่มได้แล้ว]]></th_th>
+        <zh_tw><![CDATA[ 桌子不能容納更多的旁觀者了]]></zh_tw>
+    </item>
+    <item id="10212">
+        <en_us><![CDATA[ 这台server上现在没有举办MTT比赛（或比赛已经结束了）]]></en_us>
+        <th_th><![CDATA[ เกมจะจบลง]]></th_th>
+        <zh_tw><![CDATA[ 這台server上現在沒有舉辦MTT比賽（或比賽已經結束了）]]></zh_tw>
+    </item>
+    <item id="10213">
+        <en_us><![CDATA[ 锦标赛已经开始了，现在不能再参加了]]></en_us>
+        <th_th><![CDATA[ เกมที่ได้เริ่มขึ้นแล้ว]]></th_th>
+        <zh_tw><![CDATA[ 錦標賽已經開始，現在不能參加了]]></zh_tw>
+    </item>
+    <item id="10214">
+        <en_us><![CDATA[ 该玩家不在锦标赛中（可能已经被淘汰）]]></en_us>
+        <th_th><![CDATA[ ผู้เล่นท่านนี้ไม่ได้อยู่ในห้องแข่งขัน]]></th_th>
+        <zh_tw><![CDATA[ 該玩家不在錦標賽中（可能已經被淘汰）]]></zh_tw>
+    </item>
+    <item id="10215">
+        <en_us><![CDATA[ 金币不足]]></en_us>
+        <th_th><![CDATA[ เหรียญไม่พอ]]></th_th>
+        <zh_tw><![CDATA[ 金币不足]]></zh_tw>
+    </item>
+    <item id="10216">
+        <en_us><![CDATA[ 这台server升现在没有举办SpecialMTT比赛（或比赛已经结束了）]]></en_us>
+        <th_th><![CDATA[ การแข่งสิ้นสุดแล้ว]]></th_th>
+        <zh_tw><![CDATA[ 比賽已經結束了]]></zh_tw>
+    </item>
+    
+    <item id="10301">
+        <en_us><![CDATA[ 關閉當前連接]]></en_us>
+        <th_th><![CDATA[ ปิดการเชื่อมต่อปัจจุบัน]]></th_th>
+        <zh_tw><![CDATA[ 關閉當前連接]]></zh_tw>
+    </item>
+    <item id="10302">
+        <en_us><![CDATA[ 這張桌子已經關閉]]></en_us>
+        <th_th><![CDATA[ โต๊ะนี้ปิดแล้ว]]></th_th>
+        <zh_tw><![CDATA[ 這張桌子已經關閉]]></zh_tw>
+    </item>
+    <item id="10510">
+        <en_us><![CDATA[ 您没有选桌子 ]]></en_us>
+        <th_th><![CDATA[ ไม่พบโต๊ะที่เหมาะสม ]]></th_th>
+        <zh_tw><![CDATA[ 您沒有選桌子 ]]></zh_tw>
+    </item>
+    <item id="20510">
+        <en_us><![CDATA[ 已经在同一张桌子 ]]></en_us>
+        <th_th><![CDATA[ คุณอยู่ในห้องดังกล่าวแล้ว ]]></th_th>
+        <zh_tw><![CDATA[ 已經在同一張牌桌 ]]></zh_tw>
+    </item>
+    <item id="10511">
+        <en_us><![CDATA[The gift has been received.]]></en_us>
+        <th_th><![CDATA[ท่านได้ส่งของรางวัลเรียบร้อยแล้ว.]]></th_th>
+        <zh_tw><![CDATA[禮物贈送成功]]></zh_tw>
+    </item>
+    <item id="346654">
+        <en_us><![CDATA[]]></en_us>
+        <th_th><![CDATA[invalid_match_status]]></th_th>
+        <zh_tw><![CDATA[invalid_match_status]]></zh_tw>
+    </item>
+    <item id="382802">
+        <en_us><![CDATA[invalid_shop_item_or_empty_friend_uid]]></en_us>
+        <th_th><![CDATA[invalid_shop_item_or_empty_friend_uid]]></th_th>
+        <zh_tw><![CDATA[invalid_shop_item_or_empty_friend_uid]]></zh_tw>
+    </item>
+    <item id="799994">
+        <en_us><![CDATA[invalid_shop_item_data]]></en_us>
+        <th_th><![CDATA[invalid_shop_item_data]]></th_th>
+        <zh_tw><![CDATA[invalid_shop_item_data]]></zh_tw>
+    </item>
+    <item id="1336574">
+        <en_us><![CDATA[error_daily_login_bonus]]></en_us>
+        <th_th><![CDATA[error_daily_login_bonus]]></th_th>
+        <zh_tw><![CDATA[error_daily_login_bonus]]></zh_tw>
+    </item>
+    <item id="1527147">
+        <en_us><![CDATA[invalid_message_id]]></en_us>
+        <th_th><![CDATA[invalid_message_id]]></th_th>
+        <zh_tw><![CDATA[invalid_message_id]]></zh_tw>
+    </item>
+    <item id="1732873">
+        <en_us><![CDATA[friend_not_exist]]></en_us>
+        <th_th><![CDATA[friend_not_exist]]></th_th>
+        <zh_tw><![CDATA[friend_not_exist]]></zh_tw>
+    </item>
+    <item id="1825442">
+        <en_us><![CDATA[max_player_sign]]></en_us>
+        <th_th><![CDATA[max_player_sign]]></th_th>
+        <zh_tw><![CDATA[max_player_sign]]></zh_tw>
+    </item>
+    <item id="1845623">
+        <en_us><![CDATA[not_reach_bonus_day]]></en_us>
+        <th_th><![CDATA[not_reach_bonus_day]]></th_th>
+        <zh_tw><![CDATA[not_reach_bonus_day]]></zh_tw>
+    </item>
+    <item id="2930092">
+        <en_us><![CDATA[draw_card_failed]]></en_us>
+        <th_th><![CDATA[draw_card_failed]]></th_th>
+        <zh_tw><![CDATA[draw_card_failed]]></zh_tw>
+    </item>
+    <item id="4005243">
+        <en_us><![CDATA[invalid_params]]></en_us>
+        <th_th><![CDATA[invalid_params]]></th_th>
+        <zh_tw><![CDATA[invalid_params]]></zh_tw>
+    </item>
+    <item id="4043083">
+        <en_us><![CDATA[Please refresh your browser to update the game]]></en_us>
+        <th_th><![CDATA[คลิกยืนยันเพื่อรีเฟรชหน้าเกม]]></th_th>
+        <zh_tw><![CDATA[版本已更新，請刷新遊戲]]></zh_tw>
+    </item>
+    <item id="4149665">
+        <en_us><![CDATA[]]></en_us>
+        <th_th><![CDATA[guide_already_finished_or_bonused]]></th_th>
+        <zh_tw><![CDATA[guide_already_finished_or_bonused]]></zh_tw>
+    </item>
+    <item id="4596246">
+        <en_us><![CDATA[invalid_static_daily_bonus_data]]></en_us>
+        <th_th><![CDATA[invalid_static_daily_bonus_data]]></th_th>
+        <zh_tw><![CDATA[invalid_static_daily_bonus_data]]></zh_tw>
+    </item>
+    <item id="6049398">
+        <en_us><![CDATA[not_enough_resource]]></en_us>
+        <th_th><![CDATA[ชิปของคุณไม่พอกรุณาไปเติมด้วยค่ะ]]></th_th>
+        <zh_tw><![CDATA[您的籌碼不足]]></zh_tw>
+    </item>
+    <item id="6097695">
+        <en_us><![CDATA[invalid_message]]></en_us>
+        <th_th><![CDATA[invalid_message]]></th_th>
+        <zh_tw><![CDATA[invalid_message]]></zh_tw>
+    </item>
+    <item id="6119792">
+        <en_us><![CDATA[no_lucky_wheel_times]]></en_us>
+        <th_th><![CDATA[มักจะเพียงพอ]]></th_th>
+        <zh_tw><![CDATA[邀請好友，獲得更多轉盤次數]]></zh_tw>
+    </item>
+    <item id="6325551">
+        <en_us><![CDATA[invalid_shop_item]]></en_us>
+        <th_th><![CDATA[invalid_shop_item]]></th_th>
+        <zh_tw><![CDATA[invalid_shop_item]]></zh_tw>
+    </item>
+    <item id="6465499">
+        <en_us><![CDATA[system_error]]></en_us>
+        <th_th><![CDATA[system_error]]></th_th>
+        <zh_tw><![CDATA[system_error]]></zh_tw>
+    </item>
+    <item id="6521049">
+        <en_us><![CDATA[]]></en_us>
+        <th_th><![CDATA[account_not_exist]]></th_th>
+        <zh_tw><![CDATA[account_not_exist]]></zh_tw>
+    </item>
+    <item id="6812568">
+        <en_us><![CDATA[already_signed]]></en_us>
+        <th_th><![CDATA[already_signed]]></th_th>
+        <zh_tw><![CDATA[報名成功]]></zh_tw>
+    </item>
+    <item id="8467888">
+        <en_us><![CDATA[empty_raw_input]]></en_us>
+        <th_th><![CDATA[empty_raw_input]]></th_th>
+        <zh_tw><![CDATA[empty_raw_input]]></zh_tw>
+    </item>
+    <item id="8732971">
+        <en_us><![CDATA[]]></en_us>
+        <th_th><![CDATA[guide_not_finished_or_bonused]]></th_th>
+        <zh_tw><![CDATA[guide_not_finished_or_bonused]]></zh_tw>
+    </item>
+    <item id="10754905">
+        <en_us><![CDATA[invalid_static_player_level]]></en_us>
+        <th_th><![CDATA[invalid_static_player_level]]></th_th>
+        <zh_tw><![CDATA[invalid_static_player_level]]></zh_tw>
+    </item>
+    <item id="10908283">
+        <en_us><![CDATA[invalid_shop_item_cost]]></en_us>
+        <th_th><![CDATA[invalid_shop_item_cost]]></th_th>
+        <zh_tw><![CDATA[invalid_shop_item_cost]]></zh_tw>
+    </item>
+    <item id="11009891">
+        <en_us><![CDATA[invalid_uid]]></en_us>
+        <th_th><![CDATA[invalid_uid]]></th_th>
+        <zh_tw><![CDATA[invalid_uid]]></zh_tw>
+    </item>
+    <item id="11793380">
+        <en_us><![CDATA[daily_login_already_bonused]]></en_us>
+        <th_th><![CDATA[daily_login_already_bonused]]></th_th>
+        <zh_tw><![CDATA[daily_login_already_bonused]]></zh_tw>
+    </item>
+    <item id="11916101">
+        <en_us><![CDATA[not_friend]]></en_us>
+        <th_th><![CDATA[not_friend]]></th_th>
+        <zh_tw><![CDATA[not_friend]]></zh_tw>
+    </item>
+    <item id="13046517">
+        <en_us><![CDATA[not_enough_item]]></en_us>
+        <th_th><![CDATA[คุณมีไอเทมไม่พอ]]></th_th>
+        <zh_tw><![CDATA[您沒有足夠的道具]]></zh_tw>
+    </item>
+    <item id="13566002">
+        <en_us><![CDATA[system_maintenance]]></en_us>
+        <th_th><![CDATA[System Maintenance]]></th_th>
+        <zh_tw><![CDATA[System Maintenance]]></zh_tw>
+    </item>
+    <item id="13783526">
+        <en_us><![CDATA[invalid_parameter]]></en_us>
+        <th_th><![CDATA[invalid_parameter]]></th_th>
+        <zh_tw><![CDATA[invalid_parameter]]></zh_tw>
+    </item>
+    <item id="13964066">
+        <en_us><![CDATA[invalid_hot_version]]></en_us>
+        <th_th><![CDATA[invalid_hot_version]]></th_th>
+        <zh_tw><![CDATA[invalid_hot_version]]></zh_tw>
+    </item>
+    <item id="14135219">
+        <en_us><![CDATA[]]></en_us>
+        <th_th><![CDATA[message_not_exist]]></th_th>
+        <zh_tw><![CDATA[message_not_exist]]></zh_tw>
+    </item>
+    <item id="14162306">
+        <en_us><![CDATA[]]></en_us>
+        <th_th><![CDATA[mtt_not_init_or_expired]]></th_th>
+        <zh_tw><![CDATA[mtt_not_init_or_expired]]></zh_tw>
+    </item>
+    <item id="14870602">
+        <en_us><![CDATA[player_not_exist]]></en_us>
+        <th_th><![CDATA[player_not_exist]]></th_th>
+        <zh_tw><![CDATA[player_not_exist]]></zh_tw>
+    </item>
+    <item id="15155124">
+        <en_us><![CDATA[Please refresh browser and make sure you do not login in other windows.]]></en_us>
+        <th_th><![CDATA[กรุณาอย่าใช้บัญชีเดียวกันล็อคอินซ้ำซ้อน กรุณารีเฟรชเกม]]></th_th>
+        <zh_tw><![CDATA[請勿以同一帳號重複登入遊戲, 請刷新頁面.]]></zh_tw>
+    </item>
+    <item id="15393483">
+        <en_us><![CDATA[]]></en_us>
+        <th_th><![CDATA[static_series_login_error]]></th_th>
+        <zh_tw><![CDATA[static_series_login_error]]></zh_tw>
+    </item>
+    <item id="15481192">
+        <en_us><![CDATA[decrypt_failed]]></en_us>
+        <th_th><![CDATA[decrypt_failed]]></th_th>
+        <zh_tw><![CDATA[decrypt_failed]]></zh_tw>
+    </item>
+    <item id="15622732">
+        <en_us><![CDATA[not_login_enough_days]]></en_us>
+        <th_th><![CDATA[not_login_enough_days]]></th_th>
+        <zh_tw><![CDATA[not_login_enough_days]]></zh_tw>
+    </item>
+    <item id="15678835">
+        <en_us><![CDATA[]]></en_us>
+        <th_th><![CDATA[invalid_mtt_id]]></th_th>
+        <zh_tw><![CDATA[invalid_mtt_id]]></zh_tw>
+    </item>
+    <item id="16379128">
+        <en_us><![CDATA[json_decode_failed]]></en_us>
+        <th_th><![CDATA[json_decode_failed]]></th_th>
+        <zh_tw><![CDATA[json_decode_failed]]></zh_tw>
+    </item>
+    <item id="16556974">
+        <en_us><![CDATA[]]></en_us>
+        <th_th><![CDATA[already_bonused]]></th_th>
+        <zh_tw><![CDATA[already_bonused]]></zh_tw>
+    </item>
+    <item id="26556974">
+        <en_us><![CDATA[您的積分不足]]></en_us>
+        <th_th><![CDATA[แต้มของคุณไม่พอ]]></th_th>
+        <zh_tw><![CDATA[您的積分不足]]></zh_tw>
+    </item>
+    <item id="800801">
+        <en_us><![CDATA[%]]></en_us>
+        <th_th><![CDATA[%]]></th_th>
+        <zh_tw><![CDATA[%]]></zh_tw>
+    </item>
+    <item id="800802">
+        <en_us><![CDATA[Coins]]></en_us>
+        <th_th><![CDATA[Coin]]></th_th>
+        <zh_tw><![CDATA[金幣數]]></zh_tw>
+    </item>
+    <item id="800803">
+        <en_us><![CDATA[Chips]]></en_us>
+        <th_th><![CDATA[ชิป]]></th_th>
+        <zh_tw><![CDATA[籌碼]]></zh_tw>
+    </item>
+    <!--     系统消息类型 -->
+    <item id="100001">
+        <en_us><![CDATA[【系统消息】您已經參與了超級大樂透！扣除{0}籌碼]]></en_us>
+        <th_th><![CDATA[【ข้อความระบบ】ท่านเข้าร่วม Jackpot แล้ว! หักชิป {0}ชิป]]></th_th>
+        <zh_tw><![CDATA[【系统消息】您已經參與了超級大樂透！扣除{0}籌碼]]></zh_tw>
+    </item>
+    <item id="100002">
+        <en_us><![CDATA[【系统消息】由於您的籌碼不足，無法參加超級大樂透！]]></en_us>
+        <th_th><![CDATA[【ข้อความระบบ】เนื่องจากชิปของท่านไม่เพียงพอ ไม่สามารถสมัคร Jackpot ได้]]></th_th>
+        <zh_tw><![CDATA[【系统消息】由於您的籌碼不足，無法參加超級大樂透！]]></zh_tw>
+    </item>
+<!--     game -->
+
+    <item id="900001">
+        <en_us><![CDATA[sit]]></en_us>
+        <th_th><![CDATA[sit]]></th_th>
+        <zh_tw><![CDATA[sit]]></zh_tw>
+    </item>
+    
+    <item id="200001">
+        <en_us><![CDATA[初级场]]></en_us>
+        <th_th><![CDATA[初级场]]></th_th>
+        <zh_tw><![CDATA[初級場]]></zh_tw>
+    </item>
+    <item id="200002">
+        <en_us><![CDATA[中级场]]></en_us>
+        <th_th><![CDATA[中级场]]></th_th>
+        <zh_tw><![CDATA[中級場]]></zh_tw>
+    </item>
+    <item id="200011">
+        <en_us><![CDATA[ID]]></en_us>
+        <th_th><![CDATA[ID]]></th_th>
+        <zh_tw><![CDATA[ID]]></zh_tw>
+    </item>
+    <item id="200012">
+        <en_us><![CDATA[Table]]></en_us>
+        <th_th><![CDATA[โต๊ะ]]></th_th>
+        <zh_tw><![CDATA[房間]]></zh_tw>
+    </item>
+    <item id="200013">
+        <en_us><![CDATA[Blinds]]></en_us>
+        <th_th><![CDATA[บลายด์]]></th_th>
+        <zh_tw><![CDATA[盲注]]></zh_tw>
+    </item>
+    <item id="200014">
+        <en_us><![CDATA[Online]]></en_us>
+        <th_th><![CDATA[เพื่อนออนไลน์]]></th_th>
+        <zh_tw><![CDATA[在線人數]]></zh_tw>
+    </item>
+    <item id="200015">
+        <en_us><![CDATA[Min Buy in]]></en_us>
+        <th_th><![CDATA[เดิมพันต่ำสุด]]></th_th>
+        <zh_tw><![CDATA[最小攜帶]]></zh_tw>
+    </item>
+    <item id="200109">
+        <en_us><![CDATA[Sign up Fee:]]></en_us>
+        <th_th><![CDATA[สมัครเลย:]]></th_th>
+        <zh_tw><![CDATA[報名費用:]]></zh_tw>
+    </item>
+    <item id="200110">
+        <en_us><![CDATA[Service Fee:]]></en_us>
+        <th_th><![CDATA[ค่าบริการ:]]></th_th>
+        <zh_tw><![CDATA[服務費用:]]></zh_tw>
+    </item>
+    <item id="200111">
+        <en_us><![CDATA[TOP 1]]></en_us>
+        <th_th><![CDATA[อันดับที่ 1]]></th_th>
+        <zh_tw><![CDATA[TOP 1]]></zh_tw>
+    </item>
+    <item id="200112">
+        <en_us><![CDATA[TOP 2]]></en_us>
+        <th_th><![CDATA[อันดับที่ 2]]></th_th>
+        <zh_tw><![CDATA[TOP 2]]></zh_tw>
+    </item>
+    <item id="200113">
+        <en_us><![CDATA[TOP 3]]></en_us>
+        <th_th><![CDATA[อันดับที่ 3]]></th_th>
+        <zh_tw><![CDATA[TOP 3]]></zh_tw>
+    </item>
+    <item id="200114">
+        <en_us><![CDATA[Sign up]]></en_us>
+        <th_th><![CDATA[สมัครเลย]]></th_th>
+        <zh_tw><![CDATA[報名]]></zh_tw>
+    </item>
+    
+    
+    
+    <item id="500002">
+        <en_us><![CDATA[+邀请]]></en_us>
+        <th_th><![CDATA[+邀请]]></th_th>
+        <zh_tw><![CDATA[+邀请]]></zh_tw>
+    </item>
+        <item id="500001">
+        <en_us><![CDATA[: {0}]]></en_us>
+        <th_th><![CDATA[: {0}]]></th_th>
+        <zh_tw><![CDATA[: {0}]]></zh_tw>
+    </item>
+</language>
